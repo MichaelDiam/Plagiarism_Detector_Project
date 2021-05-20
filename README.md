@@ -26,6 +26,8 @@ This project will be broken down into three main notebooks:
 * Train your model and deploy it using SageMaker.
 * Evaluate your deployed classifier.
 
+Please see the [README](https://github.com/udacity/ML_SageMaker_Studies/tree/master/README.md) for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
+
 ---
 
 This project is part of the Udacity Machine Learning Engineer Nanodegree Program <https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t>
